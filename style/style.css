@@ -1,3 +1,33 @@
+.merriweather-sans-<uniquifier> {
+  font-family: "Merriweather Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
 header, main{
     margin: 50px 150px;
+}
+.header{
+    background-image: url(../images/Banner.png);
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/Banner.png);      
+ }
+.header-container{
+  justify-items: center;
+  padding: 177px 340px;
+  color: white;
+}
+.header-container p{
+  color: white;
+  font-size: 32px;
+}
+.header-container h1{
+  color: white;
+  font-size: 72px;
+  text-align: center;
 }
