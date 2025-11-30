@@ -31,3 +31,64 @@ header, main{
   font-size: 72px;
   text-align: center;
 }
+.discount{
+  padding:70px 260px ;
+  text-align: center;
+  align-items: center;
+}
+.discount h1{
+  color: red;
+  font-size: 88px;
+font-weight: bold;
+
+}
+.discount p{
+  color: red;
+  font-size: 24px;
+  font-weight: 400;
+  margin-top: -50PX;
+}
+.discount h3{
+  color:#070211;
+  font-size: 48px;
+  font-weight: bold;
+  margin-top: -10PX;
+}
+.mitnight{
+   background-image: url(../images/Vectorrr.png);
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    display: flex;
+     
+   
+}
+.join{
+  margin-top: 126px;
+  margin-left: 126px;
+  padding-bottom:126px ;
+
+}
+.join h1{
+    color: white;
+  font-size: 64px;
+  text-align: left;
+}
+.join p{
+  color: white;
+  font-size: 18px;
+ 
+}
+.join a{
+  font-weight: bold;
+  font-size: 20px;
+  background-color:none;
+  text-decoration: none;
+  color: white;
+  
+
+}
+.image{
+padding: 78px 90px 57px;
+}
